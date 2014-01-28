@@ -3,6 +3,7 @@ Dice Game
 
 Coded up for Matlab by Bernhard Konrad (bernhard.konrad@gmail.com) and Isabell Graf (grafisab@gmail.com).
 
+Jenny helped too!
 
 Fork me on github: https://github.com/IsabellGraf/DiceGame.git
 
