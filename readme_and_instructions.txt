@@ -1,8 +1,7 @@
 Dice Game
 ---------
 
-Coded up for Matlab by Bernhard Konrad (bernhard.konrad@gmail.com) and Isabell Graf (grafisab@gmail.com).
-
+Coded up in Matlab by Bernhard Konrad (bernhard.konrad@gmail.com) and Isabell Graf (grafisab@gmail.com).
 
 Fork me on github: https://github.com/IsabellGraf/DiceGame.git
 
